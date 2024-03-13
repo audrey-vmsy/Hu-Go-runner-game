@@ -1,3 +1,7 @@
+### *Hu-Go!*: a Cat-themed Endless Runner Game
+
+![Alt text](www/gameplay1.png "Screenshot of gameplay")
+
 # Folder structure
 
 - `src` - source code for your kaboom project
@@ -40,4 +44,5 @@ ___
 ___
 
 Note: This code is built on top of Kaboom's introduction file
+
 (*All art/illustrations used in this project were made by Audrey Vianca Maegan Sy - 2024*)

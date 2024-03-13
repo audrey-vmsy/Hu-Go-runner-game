@@ -1,6 +1,6 @@
 import kaboom from "kaboom"
 
-const FLOOR_HEIGHT = 48;
+const FLOOR_HEIGHT = 148;
 const JUMP_FORCE = 800;
 
 // initialize context
